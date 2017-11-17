@@ -1,0 +1,4187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="file:///A|/X-EAD/ss-committee.xsl" type="text/xsl"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="dc" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601">
+    <eadid countrycode="US" mainagencycode="US-UUML" publicid="-//University of Utah::Special Collections and Archives//TEXT (US::UUML::UUM_P0000 NUMBER::Collection NAME photograph collection)//EN" identifier="ARK NUMBER" url="ARCHIVES WEST URL FOR GUIDE" encodinganalog="identifier">UUM_P0705</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="title">Guide to the Oral History Institute photograph collection
+          <date era="ce" calendar="gregorian" normal="1984/1989" encodinganalog="date">1984-1989</date>
+        </titleproper>
+        <titleproper type="filing" altrender="nodisplay">Oral History Institute photograph collection</titleproper>
+        <author encodinganalog="creator">Finding aid created by Jessica L. Colbert</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="publisher">Multimedia Archives, J. Willard Marriott Library, University of Utah</publisher>
+        <address>
+          <addressline>295 South 1500 East</addressline>
+          <addressline>Salt Lake City, Utah 84112-0860</addressline>
+          <addressline>801-581-8864</addressline>
+          <addressline>http://lib.utah.edu/collections/multimedia-archives</addressline>
+        </address>
+        <date era="ce" calendar="gregorian" normal="2017" encodinganalog="date">&#169; 2017</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Encoded in Adobe Dreamweaver by Jessica L. Colbert
+        <date era="ce" calendar="gregorian" normal="2017">2017</date>
+        .</creation>
+      <langusage>Finding aid encoded in
+        <language encodinganalog="language" langcode="eng" scriptcode="Latn">English</language>
+        in Latin script.</langusage>
+      <descrules>Finding aid based on DACS (
+        <title render="italic">Describing Archives: A Content Standard, 2nd Edition</title>
+        )</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="dc">
+    <did>
+      <repository>
+        <corpname encodinganalog="publisher">University of Utah Libraries, Special Collections</corpname>
+        <subarea encodinganalog="publisher">Photographs Division</subarea>
+        <address>
+          <addressline>Special Collections</addressline>
+          <addressline>295 South 1500 East</addressline>
+          <addressline>Salt Lake City, Utah 84112-0860</addressline>
+          <addressline>801-581-8864</addressline>
+          <addressline>http://lib.utah.edu/collections/multimedia-archives</addressline>
+        </address>
+      </repository>
+      <unitid encodinganalog="identifier" countrycode="US" repositorycode="US-UUML">P0705</unitid>
+      <origination>
+        <corpname source="lcnaf" encodinganalog="creator" role="collector">Oral History Institute</corpname>
+      </origination>
+      <unittitle encodinganalog="title">Oral History Institute photograph collection</unittitle>
+      <unitdate type="inclusive" era="ce" calendar="gregorian" normal="1984/1989" certainty="approximate" encodinganalog="date">1984-1989</unitdate>
+      <physdesc>
+        <extent encodinganalog="format">9 boxes</extent>
+        <extent encodinganalog="format">3.75 linear feet</extent>
+        <extent encodinganalog="format">Proof sheets</extent>
+      </physdesc>
+      <abstract encodinganalog="description">This collection contains the proof sheets of photographs taken by photographers George Janecek and Kent Miles in partnership with the Oral History Institute. These photographs depict members of various ethnic communities within the Salt Lake area.</abstract>
+      <langmaterial>Collection materials are in
+        <language langcode="eng" encodinganalog="language">English</language>
+        .</langmaterial>
+    </did>
+    <bioghist encodinganalog="description">
+      <head>Historical Note</head>
+      <p>The OralHistoryInstitute, located in Salt Lake City, Utah, began a project in 1982 to document the interaction between the dominant culture and various minority cultures in Utah. Interviews were conducted with members of individual ethnic and cultural groups including members of the dominant white culture. The project was conducted under a grant from the Utah Endowment for the Humanities.</p>
+    </bioghist>
+    <scopecontent encodinganalog="description">
+      <p>The Utah Endowment for the Humanities funded the OralHistoryInstitute (OHI) of Salt Lake City to conduct interviews with members of different ethnic minorities and racial groups. This collection contains the photographs by photographers George Janecek and Kent Miles of the various interviewees. Items are primarily in the form of proof sheets, though negatives do exist for each proof sheet.</p>
+    </scopecontent>
+    <arrangement encodinganalog="description">
+      <p>This collection is arranged into 9 boxes, separated by ethnic group.</p>
+    </arrangement>
+    <accessrestrict encodinganalog="rights">
+      <p>Twenty-four hour advanced notice encouraged.  Materials must be used on-site.  Access to parts of this collection may be restricted under provisions of state or federal law.</p>
+    </accessrestrict>
+    <userestrict encodinganalog="rights">
+      <p>It is the responsibility of the researcher to obtain any necessary copyright clearances.</p>
+      <p>Permission to publish material from the Oral History Institute photograph collection must be obtained from the Special Collections Photograph Curator.</p>
+    </userestrict>
+    <prefercite>
+      <p>
+        <emph render="italic">Initial Citation:</emph>
+        Oral History Institute photograph collection, P0705,
+        Box [ ].  Special Collections and Archives. University of Utah, J. Willard Marriott Library. Salt Lake City, Utah.</p>
+      <p>
+        <emph render="italic">Following Citations:</emph>
+        P0705.</p>
+    </prefercite>
+    <acqinfo>
+      <p>Purchased from Oral History Institute.</p>
+    </acqinfo>
+    <processinfo>
+      <p>Processed by Jessica L. Colbert in 2017.</p>
+    </processinfo>
+    <controlaccess>
+      <controlaccess>
+        <persname encodinganalog="subject" source="lcnaf" role="subject">Janecek, George</persname>
+      </controlaccess>
+      <controlaccess>
+        <persname encodinganalog="subject" source="lcnaf" role="subject">Miles, Kent, 1950-</persname>
+      </controlaccess>
+      <controlaccess>
+        <corpname encodinganalog="subject" source="lcnaf" role="subject">University of Utah. Oral History Institute</corpname>
+      </controlaccess>
+      <controlaccess>
+        <geogname encodinganalog="coverage" source="lcnaf" role="subject">Salt Lake City (Utah)</geogname>
+      </controlaccess>
+      <controlaccess>
+        <subject encodinganalog="subject" source="lcsh">African Americans--Utah--Salt Lake City</subject>
+      </controlaccess>
+	  <controlaccess>
+        <subject encodinganalog="subject" source="lcsh">Chinese Americans--Utah--Salt Lake City</subject>
+      </controlaccess>
+	  <controlaccess>
+        <subject encodinganalog="subject" source="lcsh">Greek Americans--Utah--Salt Lake City</subject>
+      </controlaccess>
+	  <controlaccess>
+        <subject encodinganalog="subject" source="lcsh">Italian Americans--Utah--Salt Lake City</subject>
+      </controlaccess>
+	  <controlaccess>
+        <subject encodinganalog="subject" source="lcsh">Japanese Americans--Utah--Salt Lake City</subject>
+      </controlaccess>
+	  <controlaccess>
+        <subject encodinganalog="subject" source="lcsh">Jews--Utah--Salt Lake City</subject>
+      </controlaccess>
+	  <controlaccess>
+        <subject encodinganalog="subject" source="lcsh">Mexican Americans--Utah--Salt Lake City</subject>
+      </controlaccess>
+	  <controlaccess>
+        <subject encodinganalog="subject" source="lcsh">Ute Indians--Utah</subject>
+      </controlaccess>
+      <controlaccess>
+        <genreform encodinganalog="type" source="gmgpc">Proof print</genreform>
+      </controlaccess>
+	  <controlaccess>
+        <genreform encodinganalog="type" source="gmgpc">Photograph</genreform>
+      </controlaccess>
+      <controlaccess>
+        <title render="italic" encodinganalog="title" source="lctah">Oral History Institue photograph collection</title>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined">
+      <c01 level="series">
+        <did>
+          <unitid>I</unitid>
+          <unittitle encodinganalog="title">Proof sheets: Black</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">1</container>
+            <unittitle encodinganalog="title">African Methodist Episcopal Church (building only)</unittitle>
+            <unitdate>1986</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Color transparencies</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">2</container>
+            <unittitle encodinganalog="title">African Methodist Episcopal Church, 96th anniversary</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">3</container>
+            <unittitle encodinganalog="title">American Legion Club (Ogden)</unittitle>
+            <unitdate>1985</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">4</container>
+            <unittitle encodinganalog="title">American Legion Club (Ogden)</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">5</container>
+            <unittitle encodinganalog="title">Lucile Bankhead</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">6</container>
+            <unittitle encodinganalog="title">Bernice Benns</unittitle>
+            <unitdate>1985</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">7</container>
+            <unittitle encodinganalog="title">Howard Browne</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">8</container>
+            <unittitle encodinganalog="title">Marguerite Browne</unittitle>
+            <unitdate>1985</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">9</container>
+            <unittitle encodinganalog="title">Calvary Baptist Church, 86th anniversary</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">10</container>
+            <unittitle encodinganalog="title">Calvary Baptist Church, Sunday service</unittitle>
+            <unitdate>1984</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">11</container>
+            <unittitle encodinganalog="title">Dorothy Daniels funeral, African Methodist Episcopal Church</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">12</container>
+            <unittitle encodinganalog="title">Pastor France Davis, Calvary Baptist Church</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">13</container>
+            <unittitle encodinganalog="title">James E. Dooley</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">14</container>
+            <unittitle encodinganalog="title">Reverend Theodore Fields, New Pilgrim Baptist Church</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">15</container>
+            <unittitle encodinganalog="title">Frances Fleming</unittitle>
+            <unitdate>1985</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">16</container>
+            <unittitle encodinganalog="title">The "4 x 5s"</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">17</container>
+            <unittitle encodinganalog="title">Albert Fritz</unittitle>
+            <unitdate>1984</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">18</container>
+            <unittitle encodinganalog="title">Mr. Gillespie (Ogden)</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">19</container>
+            <unittitle encodinganalog="title">Victor Gordon, Salt Lake Airport</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">20</container>
+            <unittitle encodinganalog="title">Officer Jake Green, Courthouse</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">21</container>
+            <unittitle encodinganalog="title">Alberta Henry</unittitle>
+            <unitdate>1985</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">22</container>
+            <unittitle encodinganalog="title">Gladys Hesleph</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">23</container>
+            <unittitle encodinganalog="title">Hill Air Force Base employees</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">24</container>
+            <unittitle encodinganalog="title">Eleanor Johnson</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">25</container>
+            <unittitle encodinganalog="title">Fantley Jones (Ogden)</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">26</container>
+            <unittitle encodinganalog="title">Marcella Kelly</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">27</container>
+            <unittitle encodinganalog="title">Florence Lawrence</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">28</container>
+            <unittitle encodinganalog="title">Coretta Scott King, addressing the Utah State Legislative and congregation</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">29</container>
+            <unittitle encodinganalog="title">Martin Luther King Day March</unittitle>
+            <unitdate>1986</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by Al Hartmann.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">30</container>
+            <unittitle encodinganalog="title">Anna Belle Mattson</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">31</container>
+            <unittitle encodinganalog="title">Joe McQueen playing at Salt Lake club (Green Parrot?)</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">32</container>
+            <unittitle encodinganalog="title">Joe McQueen</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">33</container>
+            <unittitle encodinganalog="title">John Moore</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">34</container>
+            <unittitle encodinganalog="title">Willie Moore, barber (Ogden)</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">35</container>
+            <unittitle encodinganalog="title">N.A.A.C.P. meeting - election of officers</unittitle>
+            <unitdate>1984</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">36</container>
+            <unittitle encodinganalog="title">N.A.A.C.P. - swearing in ceremony</unittitle>
+            <unitdate>1985 - 1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">37</container>
+            <unittitle encodinganalog="title">Dr. Charles Nabors, U.U. Medical Center</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">38</container>
+            <unittitle encodinganalog="title">Ruby Nathaniel</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">39</container>
+            <unittitle encodinganalog="title">New Pilgrim Baptist Church</unittitle>
+            <unitdate>1984 - 1985</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">40</container>
+            <unittitle encodinganalog="title">Ogden, 25th Street</unittitle>
+            <unitdate>1985</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">41</container>
+            <unittitle encodinganalog="title">Ogden, 25th Street</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">42</container>
+            <unittitle encodinganalog="title">Mr. and Mrs. Henry Sexton</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">43</container>
+            <unittitle encodinganalog="title">Nelson Styles, Hotel Utah</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">44</container>
+            <unittitle encodinganalog="title">Alberta West</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">45</container>
+            <unittitle encodinganalog="title">Mr. and Mrs. Williams, 50th wedding anniversary</unittitle>
+            <unitdate>n.d.</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by Al Hartmann.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">46</container>
+            <unittitle encodinganalog="title">Williams Family</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">47</container>
+            <unittitle encodinganalog="title">Senator Terry Williams</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">1</container>
+            <container type="folder">48</container>
+            <unittitle encodinganalog="title">Nathan "Woody" Wright</unittitle>
+            <unitdate>1985 - 1987</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>II</unitid>
+          <unittitle encodinganalog="title">Proof sheets: Chinese</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">1</container>
+            <unittitle encodinganalog="title">Asian Advisory Council</unittitle>
+            <unitdate>1985</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, negatives</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by Al Hartmann.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">2</container>
+            <unittitle encodinganalog="title">Asian Festival</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">3</container>
+            <unittitle encodinganalog="title">Dr. Ruth K. Chang</unittitle>
+            <unitdate>1986</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">4</container>
+            <unittitle encodinganalog="title">Chinese Engineers and Scientists Society</unittitle>
+            <unitdate>n.d.</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">5</container>
+            <unittitle encodinganalog="title">Chinese gravestones, city cemetery</unittitle>
+            <unitdate>n.d.</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">6</container>
+            <unittitle encodinganalog="title">Chinese New Year's Eve party (Silver Palace Restaurant)</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">7</container>
+            <unittitle encodinganalog="title">Thon T. Gin</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">8</container>
+            <unittitle encodinganalog="title">Ding Ho</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">9</container>
+            <unittitle encodinganalog="title">Mr. and Mrs. Raymond Hong</unittitle>
+            <unitdate>1988</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">10</container>
+            <unittitle encodinganalog="title">JoAnn Wong Kilpatrick</unittitle>
+            <unitdate>n.d.</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">11</container>
+            <unittitle encodinganalog="title">In Our Time panel</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">12</container>
+            <unittitle encodinganalog="title">Ed Kim (China Doll Cafe)</unittitle>
+            <unitdate>n.d.</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">13</container>
+            <unittitle encodinganalog="title">Mr. and Mrs. Geoffrey Lieu and children</unittitle>
+            <unitdate>1987</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">14</container>
+            <unittitle encodinganalog="title">Bob W. Louie</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">15</container>
+            <unittitle encodinganalog="title">Mr. and Mrs. Harry Louie, King Joy Cafe</unittitle>
+            <unitdate>1986</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">16</container>
+            <unittitle encodinganalog="title">William W. and Maria Linda Louie</unittitle>
+            <unitdate>1986</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">17</container>
+            <unittitle encodinganalog="title">King Sue Ngan with granddaughter JoAnn Wong Kilpatrick, and great-grandson</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">18</container>
+            <unittitle encodinganalog="title">Dao Nguyen (Orient Cafe)</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">19</container>
+            <unittitle encodinganalog="title">Railroad tracks, Golden Spike monument</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">20</container>
+            <unittitle encodinganalog="title">William Tang</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">21</container>
+            <unittitle encodinganalog="title">Tong Hall (Ed Kim)</unittitle>
+            <unitdate>1987</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">22</container>
+            <unittitle encodinganalog="title">Wing Fat Enterprises</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">23</container>
+            <unittitle encodinganalog="title">Dewey Wong (China Village)</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">24</container>
+            <unittitle encodinganalog="title">Ike J. Wong (Lucky Lion, Inc.)</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">25</container>
+            <unittitle encodinganalog="title">Lang Wong, fortune cookie factory</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">26</container>
+            <unittitle encodinganalog="title">S.P. Wong (Crossroads Mall)</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">27</container>
+            <unittitle encodinganalog="title">Mr. and Mrs. Michael Wu and children</unittitle>
+            <unitdate>1989</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">28</container>
+            <unittitle encodinganalog="title">Jenny Yau</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">29</container>
+            <unittitle encodinganalog="title">Bin and Margaret Yee (Jade Cafe)</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">2</container>
+            <container type="folder">30</container>
+            <unittitle encodinganalog="title">Jason and Dorothy Yu and daughter</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>III</unitid>
+          <unittitle encodinganalog="title">Proof sheets: Greek</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">1</container>
+            <unittitle encodinganalog="title">Paul and Georgia Borovilos (SLC)</unittitle>
+            <unitdate>1985</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">2</container>
+            <unittitle encodinganalog="title">Bread ceremony, Holy Trinity</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">3</container>
+            <unittitle encodinganalog="title">Dorothy Cayais</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">4</container>
+            <unittitle encodinganalog="title">Mr. and Mrs. John Chipian</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">5</container>
+            <unittitle encodinganalog="title">Jim and Bessie Colovos family, Thanksgiving (Magna)</unittitle>
+            <unitdate>1985</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">6</container>
+            <unittitle encodinganalog="title">Mr. and Mrs. George Condas (SLC)</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">7</container>
+            <unittitle encodinganalog="title">Mr. and Mrs. Peter Conda and child, Tessie</unittitle>
+            <unitdate>1987</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">8</container>
+            <unittitle encodinganalog="title">Mr. and Mrs. Jim Cononelos (SLC)</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">9</container>
+            <unittitle encodinganalog="title">Crown Burgers (N. Katsanevas and J. Katzourakis)</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">10</container>
+            <unittitle encodinganalog="title">Mary Diamant</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">11</container>
+            <unittitle encodinganalog="title">Stan and Chris Diamanti (Price)</unittitle>
+            <unitdate>1987</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">12</container>
+            <unittitle encodinganalog="title">George Floor</unittitle>
+            <unitdate>1985</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">13</container>
+            <unittitle encodinganalog="title">Ellen Furgis</unittitle>
+            <unitdate>1985</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">14</container>
+            <unittitle encodinganalog="title">Karen Furgis Coady wedding</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">15</container>
+            <unittitle encodinganalog="title">Angelo Georgedes (Price)</unittitle>
+            <unitdate>1987</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">16</container>
+            <unittitle encodinganalog="title">Greek Festival</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">17</container>
+            <unittitle encodinganalog="title">Greek Festival</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">18</container>
+            <unittitle encodinganalog="title">Holy Trinity Church</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">19</container>
+            <unittitle encodinganalog="title">Holy Trinity Church, Resurrection ceremony</unittitle>
+            <unitdate>1985</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">20</container>
+            <unittitle encodinganalog="title">Holy Trinity Church service and baptism</unittitle>
+            <unitdate>1985</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">21</container>
+            <unittitle encodinganalog="title">Chris P. Jouflas</unittitle>
+            <unitdate>1987</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">22</container>
+            <unittitle encodinganalog="title">Tessie Jouflas (SLC)</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">23</container>
+            <unittitle encodinganalog="title">Helen Kannes and Mary Diamant</unittitle>
+            <unitdate>1987</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">24</container>
+            <unittitle encodinganalog="title">George Kardaras (Greek Festival)</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">25</container>
+            <unittitle encodinganalog="title">Andy and Mike Katsenevas</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">26</container>
+            <unittitle encodinganalog="title">Mrs. Wilma Klekas</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">27</container>
+            <unittitle encodinganalog="title">Penelope Koulouris</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">28</container>
+            <unittitle encodinganalog="title">Mary Lines</unittitle>
+            <unitdate>1988</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">29</container>
+            <unittitle encodinganalog="title">Magna: Papanikolas Furniture, Fair Market</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">30</container>
+            <unittitle encodinganalog="title">Father Andrew Mahalares</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">31</container>
+            <unittitle encodinganalog="title">New Year's Eve celebration, Hotel Utah</unittitle>
+            <unitdate>1985</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">32</container>
+            <unittitle encodinganalog="title">Helen Papanikolas</unittitle>
+            <unitdate>1985</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">33</container>
+            <unittitle encodinganalog="title">Dia and James Pappas</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">34</container>
+            <unittitle encodinganalog="title">Gus Paulos</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">35</container>
+            <unittitle encodinganalog="title">Redwood Inn, Thanksgiving</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">36</container>
+            <unittitle encodinganalog="title">Restaurants</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">37</container>
+            <unittitle encodinganalog="title">Sampinos family Easter lamb roast (Price)</unittitle>
+            <unitdate>1987</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">38</container>
+            <unittitle encodinganalog="title">Dominick L. Besso (Price)</unittitle>
+            <unitdate>1987</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">39</container>
+            <unittitle encodinganalog="title">Steve Sargetakis (Silver State)</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">40</container>
+            <unittitle encodinganalog="title">Constantine Skedros (West High School)</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">41</container>
+            <unittitle encodinganalog="title">Ted and Katherine Speros (Lamb's Cafe)</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">42</container>
+            <unittitle encodinganalog="title">Sam Souvall</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">43</container>
+            <unittitle encodinganalog="title">Nick Strike</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="box">3</container>
+            <container type="folder">44</container>
+            <unittitle encodinganalog="title">Jim and Georgia Veranakis</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>IV</unitid>
+          <unittitle encodinganalog="title">Proof sheets: Italian</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">1</container>
+            <unittitle encodinganalog="title">Dominic Albo</unittitle>
+            <unitdate>1986</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">No proof sheets.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">2</container>
+            <unittitle encodinganalog="title">Mrs. Rose Albo</unittitle>
+            <unitdate>1987</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">No proof sheets.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">3</container>
+            <unittitle encodinganalog="title">John B. Angotti and Mary Angotti Paloni</unittitle>
+            <unitdate>1987</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">4</container>
+            <unittitle encodinganalog="title">Annette Anselmo and Gelda Anselmo Mayo</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">5</container>
+            <unittitle encodinganalog="title">Gene Barber and family</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">6</container>
+            <unittitle encodinganalog="title">Mr. and MRs. Tony Barrutio (with Ariella's brother)</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">7</container>
+            <unittitle encodinganalog="title">Dominic Besso (Price)</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">8</container>
+            <unittitle encodinganalog="title">Bonacci family (Carbon County)</unittitle>
+            <unitdate>1987</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">9</container>
+            <unittitle encodinganalog="title">Renaldo and Ida Brunatti</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">10</container>
+            <unittitle encodinganalog="title">Mr. and Mrs. John Bruno</unittitle>
+            <unitdate>1987</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">11</container>
+            <unittitle encodinganalog="title">Alex Canapari funeral</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">12</container>
+            <unittitle encodinganalog="title">A. James Caputa family</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">13</container>
+            <unittitle encodinganalog="title">Cathedral of the Madeleine</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">14</container>
+            <unittitle encodinganalog="title">Ernest and Galey Colosimo (Magna)</unittitle>
+            <unitdate>1985</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">15</container>
+            <unittitle encodinganalog="title">Ralf and Rose Colosimo</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">16</container>
+            <unittitle encodinganalog="title">Columbus Day celebration, Italian American League</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">17</container>
+            <unittitle encodinganalog="title">Clara Crocco, helper</unittitle>
+            <unitdate>1987</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">No proof sheets.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">18</container>
+            <unittitle encodinganalog="title">John Crus</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">19</container>
+            <unittitle encodinganalog="title">Jane DePasqual and brother, F. Granato</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">20</container>
+            <unittitle encodinganalog="title">Joe and Diana Dispenza</unittitle>
+            <unitdate>1987</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">21</container>
+            <unittitle encodinganalog="title">Frank and Mary Falvo</unittitle>
+            <unitdate>1985</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, negatives.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by Al Hartmann.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">22</container>
+            <unittitle encodinganalog="title">Catherine J. Fratto and brother, Carmen Sirianni</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">23</container>
+            <unittitle encodinganalog="title">Giovacchini</unittitle>
+            <unitdate>n.d.</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">24</container>
+            <unittitle encodinganalog="title">Frank Granato, Granato Imports</unittitle>
+            <unitdate>n.d.</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02><c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">25</container>
+            <unittitle encodinganalog="title">Leo and Mary Italisano</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">26</container>
+            <unittitle encodinganalog="title">Mary Juliano (Price)</unittitle>
+            <unitdate>1987</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">27</container>
+            <unittitle encodinganalog="title">Ted Ligori, Tony's Pizza (Ogden)</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">28</container>
+            <unittitle encodinganalog="title">Carolina Mancuso</unittitle>
+            <unitdate>1986</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">29</container>
+            <unittitle encodinganalog="title">Ernest Mariani</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">30</container>
+            <unittitle encodinganalog="title">Ernest D. and Ernest F. Mariani</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">31</container>
+            <unittitle encodinganalog="title">Silvio and Mary Mayo</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">32</container>
+            <unittitle encodinganalog="title">Midnight Mass, Cathedral of the Madeleine</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">33</container>
+            <unittitle encodinganalog="title">Notorianni family Christmas dinner</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">34</container>
+            <unittitle encodinganalog="title">Oliveto's Distinctive Furniture</unittitle>
+            <unitdate>1987</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">35</container>
+            <unittitle encodinganalog="title">Pignanelli family</unittitle>
+            <unitdate>1987</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">36</container>
+            <unittitle encodinganalog="title">Angelo Ravarino</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">37</container>
+            <unittitle encodinganalog="title">Mr. and Mrs. Sam J. Siciliano</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">4</container>
+            <container type="folder">38</container>
+            <unittitle encodinganalog="title">St. Vincent de Paul's soup kitchen</unittitle>
+            <unitdate>1985</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, negatives.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by Al Hartmann.</p>
+          </scopecontent>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>V</unitid>
+          <unittitle encodinganalog="title">Proof sheets: Japanese</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">1</container>
+            <unittitle encodinganalog="title">Buddhist Temple, Birth of Buddha</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">2</container>
+            <unittitle encodinganalog="title">Mr. and Mrs. Nabuko Endo</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">3</container>
+            <unittitle encodinganalog="title">Mr. and Mrs. Fujikawa</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">4</container>
+            <unittitle encodinganalog="title">Dr. E.I. Hashimoto</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">5</container>
+            <unittitle encodinganalog="title">"In Our Time" panel</unittitle>
+            <unitdate>1984</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">6</container>
+            <unittitle encodinganalog="title">Yukus Inouye, wedding anniversary</unittitle>
+            <unitdate>1988</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">7</container>
+            <unittitle encodinganalog="title">Intermountain Military Intelligence Service Veterans Group (IMG)</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">8</container>
+            <unittitle encodinganalog="title">Kiyotoshi Iwamoto</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">9</container>
+            <unittitle encodinganalog="title">Japanese American Citizens League (JACL) 50th anniversary</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">10</container>
+            <unittitle encodinganalog="title">Japanese Church of Christ, Easter egg hunt</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">11</container>
+            <unittitle encodinganalog="title">Japanese gravestones, Salt Lake City Cemetery</unittitle>
+            <unitdate>1986</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">12</container>
+            <unittitle encodinganalog="title">Alice Kasai</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">13</container>
+            <unittitle encodinganalog="title">Mitsugi M. Kasai</unittitle>
+            <unitdate>1986</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">14</container>
+            <unittitle encodinganalog="title">Helen and Jun Kurumada</unittitle>
+            <unitdate>1987</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">15</container>
+            <unittitle encodinganalog="title">Dr. Jun and Helen Kurumada</unittitle>
+            <unitdate>1986</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">16</container>
+            <unittitle encodinganalog="title">Chio Matsumiya and Jeanne Konishi</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">17</container>
+            <unittitle encodinganalog="title">Jim Matsumori</unittitle>
+            <unitdate>1985</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">18</container>
+            <unittitle encodinganalog="title">Haruko Moriyasu and Kazuko Terasawa</unittitle>
+            <unitdate>1986</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">19</container>
+            <unittitle encodinganalog="title">Mrs. Nagao (Tremonton)</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">20</container>
+            <unittitle encodinganalog="title">Yuk and Mary Nakaishi (Ogden)</unittitle>
+            <unitdate>1985</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">21</container>
+            <unittitle encodinganalog="title">Dorcas Nakao (Bountiful)</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">22</container>
+            <unittitle encodinganalog="title">Toki Nakashima</unittitle>
+            <unitdate>1986</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">23</container>
+            <unittitle encodinganalog="title">Mr. and Mrs. Roy Nakatani (Ogden)</unittitle>
+            <unitdate>1988</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">24</container>
+            <unittitle encodinganalog="title">Frank Nishiguchi (Tremonton)</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">25</container>
+            <unittitle encodinganalog="title">Obon Festival (Salt Lake City)</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">26</container>
+            <unittitle encodinganalog="title">Hiroji Okomura</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">27</container>
+            <unittitle encodinganalog="title">Ken and Alice Ogura, Masa Cleaners</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">28</container>
+            <unittitle encodinganalog="title">Grace and Ben Oshita</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">29</container>
+            <unittitle encodinganalog="title">Harry Sato, Harry's Garage (Ogden)</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">30</container>
+            <unittitle encodinganalog="title">Mr. and Mrs. Izyo Sauki</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">31</container>
+            <unittitle encodinganalog="title">Sugar beet factory (Garland)</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">32</container>
+            <unittitle encodinganalog="title">John Suzuki</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">33</container>
+            <unittitle encodinganalog="title">Grace Tasaka</unittitle>
+            <unitdate>1986</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">34</container>
+            <unittitle encodinganalog="title">Kuniko Terasawa at the Utah Nippo</unittitle>
+            <unitdate>1986</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">35</container>
+            <unittitle encodinganalog="title">Kuniko Terasawa at the Utah Nippo</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">36</container>
+            <unittitle encodinganalog="title">Tsuyuki family, Mikado Restaurant</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">37</container>
+            <unittitle encodinganalog="title">Tremonton, Utah (Rothstein trip)</unittitle>
+            <unitdate>1985</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">38</container>
+            <unittitle encodinganalog="title">Tremonton, Utah and Omune Nagao (Rothstein trip)</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">39</container>
+            <unittitle encodinganalog="title">Jim Tzoi and Tom Shimizu</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">40</container>
+            <unittitle encodinganalog="title">Take Uchida</unittitle>
+            <unitdate>1985</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">41</container>
+            <unittitle encodinganalog="title">Judge Raymond Uno</unittitle>
+            <unitdate>1986</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">42</container>
+            <unittitle encodinganalog="title">Judge Raymond Uno</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">43</container>
+            <unittitle encodinganalog="title">Judge Raymond Uno, swearing-in ceremony</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">44</container>
+            <unittitle encodinganalog="title">Judge Raymond Uno, victory party</unittitle>
+            <unitdate>1984</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">45</container>
+            <unittitle encodinganalog="title">Osako Uno</unittitle>
+            <unitdate>1985</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">46</container>
+            <unittitle encodinganalog="title">Shake Ushio</unittitle>
+            <unitdate>1986</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">47</container>
+            <unittitle encodinganalog="title">Sam Watanaki</unittitle>
+            <unitdate>1986</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">48</container>
+            <unittitle encodinganalog="title">Mrs. Yasuda</unittitle>
+            <unitdate>1986</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">5</container>
+            <container type="folder">49</container>
+            <unittitle encodinganalog="title">Slim Yei family (Ogden)</unittitle>
+            <unitdate>1988</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>VI</unitid>
+          <unittitle encodinganalog="title">Proof sheets: Jewish</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">1</container>
+            <unittitle encodinganalog="title">Mrs. David Alder</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">2</container>
+            <unittitle encodinganalog="title">Sadie Appleman</unittitle>
+            <unitdate>1986</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">3</container>
+            <unittitle encodinganalog="title">Rose Arnovitz</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">4</container>
+            <unittitle encodinganalog="title">Bruce Cohn and Richard Rappaport, Attorneys</unittitle>
+            <unitdate>1986</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">5</container>
+            <unittitle encodinganalog="title">Conversion class, Rabbi Eric Silver</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">6</container>
+            <unittitle encodinganalog="title">Day of Atonement, outside Kol Ami (Yom Kippur)</unittitle>
+            <unitdate>1986</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">7</container>
+            <unittitle encodinganalog="title">Joe Doctorman and son, Harry</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">8</container>
+            <unittitle encodinganalog="title">Mrs. Joe Dupler</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">9</container>
+            <unittitle encodinganalog="title">Edward B. Eisen</unittitle>
+            <unitdate>1986</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">10</container>
+            <unittitle encodinganalog="title">Mr. and Mrs. Finkelstein</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">11</container>
+            <unittitle encodinganalog="title">Alberta Freshman</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">12</container>
+            <unittitle encodinganalog="title">Mr. and Mrs. Harry Glow</unittitle>
+            <unitdate>1986</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">13</container>
+            <unittitle encodinganalog="title">Jack Goodman</unittitle>
+            <unitdate>1988</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">14</container>
+            <unittitle encodinganalog="title">Mr. and Mrs. Abe Guss</unittitle>
+            <unitdate>1987</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">15</container>
+            <unittitle encodinganalog="title">Mrs. Sam Guss</unittitle>
+            <unitdate>1986</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">16</container>
+            <unittitle encodinganalog="title">Holocaust Memorial, Utah State Capital</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">17</container>
+            <unittitle encodinganalog="title">Ernest and Hildegard Israel</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">18</container>
+            <unittitle encodinganalog="title">Jewish Community Center, senior luncheon</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">19</container>
+            <unittitle encodinganalog="title">Jewish tombstones, Salt Lake City Cemetery</unittitle>
+            <unitdate>1986</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">20</container>
+            <unittitle encodinganalog="title">Jim and Lois Kahn; Kahn child's circumcision</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">21</container>
+            <unittitle encodinganalog="title">Dr. Victor Kassel</unittitle>
+            <unitdate>1986</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">22</container>
+            <unittitle encodinganalog="title">Kol Ami, Hannukah service, fest for children</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">23</container>
+            <unittitle encodinganalog="title">Esther Landa</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">24</container>
+            <unittitle encodinganalog="title">Mr. and Mrs. Fred Linden</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">25</container>
+            <unittitle encodinganalog="title">The Loeb family</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">26</container>
+            <unittitle encodinganalog="title">Mr. and Mrs. Sidney Matz</unittitle>
+            <unitdate>1986</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">27</container>
+            <unittitle encodinganalog="title">Mr. and Mrs. David Mednick</unittitle>
+            <unitdate>1986</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">28</container>
+            <unittitle encodinganalog="title">Harry Miller</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">29</container>
+            <unittitle encodinganalog="title">Minyan, Thursday morning</unittitle>
+            <unitdate>1986</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">30</container>
+            <unittitle encodinganalog="title">ORT - women's group</unittitle>
+            <unitdate>1987</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">31</container>
+            <unittitle encodinganalog="title">Ogden Synagogue, Gilbert P. Pacheco</unittitle>
+            <unitdate>1988</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">32</container>
+            <unittitle encodinganalog="title">Sonya Pepper</unittitle>
+            <unitdate>1987</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">33</container>
+            <unittitle encodinganalog="title">Joseph Rosenblatt</unittitle>
+            <unitdate>1985</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">34</container>
+            <unittitle encodinganalog="title">The Joel B. Shapiro family</unittitle>
+            <unitdate>1986</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">35</container>
+            <unittitle encodinganalog="title">Leon and Sonya Shaposhnikov</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">36</container>
+            <unittitle encodinganalog="title">Dick Shubach</unittitle>
+            <unitdate>1986</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">37</container>
+            <unittitle encodinganalog="title">Mr. and Mrs. Siegel</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">38</container>
+            <unittitle encodinganalog="title">Rabbi Eric Silver, Passover Seder</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">39</container>
+            <unittitle encodinganalog="title">Mr. and Mrs. Harry Smith</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">40</container>
+            <unittitle encodinganalog="title">Synagogues, Salt Lake City</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">41</container>
+            <unittitle encodinganalog="title">Ralph and Blanche Tannenbaum</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">42</container>
+            <unittitle encodinganalog="title">Sade Tannenbaum</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">43</container>
+            <unittitle encodinganalog="title">Mr. and Mrs. I.J. Wagner</unittitle>
+            <unitdate>1986</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">6</container>
+            <container type="folder">44</container>
+            <unittitle encodinganalog="title">Mouis Yaffeh family</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Restricted.</p>
+			<p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>VII</unitid>
+          <unittitle encodinganalog="title">Proof sheets: Mexican/Hispanic</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">1</container>
+            <unittitle encodinganalog="title">Jess Agraz, Consulate Mayor</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">2</container>
+            <unittitle encodinganalog="title">Jess Agraz, Consulate Mary; Greek Festival</unittitle>
+            <unitdate>1985?</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">3</container>
+            <unittitle encodinganalog="title">Jess Agraz and family</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">4</container>
+            <unittitle encodinganalog="title">Mr. and Mrs. Alvera</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">5</container>
+            <unittitle encodinganalog="title">Mr. and Mrs. Robert Archuleta and family</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">6</container>
+            <unittitle encodinganalog="title">Mr. and Mrs. Bustillos</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">7</container>
+            <unittitle encodinganalog="title">Campo's Drive Inn</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">8</container>
+            <unittitle encodinganalog="title">Cesar Chavez, United Workers rally, Guadalupe Church</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">9</container>
+            <unittitle encodinganalog="title">Carl C. Cordova</unittitle>
+            <unitdate>1986</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">10</container>
+            <unittitle encodinganalog="title">Juanita Elizondo and daughter, Jessie E. Lopez</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">11</container>
+            <unittitle encodinganalog="title">Reverend and Mrs. Farga (Ogden)</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">12</container>
+            <unittitle encodinganalog="title">Representative Bobby Florez</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">13</container>
+            <unittitle encodinganalog="title">John Florez</unittitle>
+            <unitdate>1986</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">14</container>
+            <unittitle encodinganalog="title">Mr. and Mrs. Cruz Garcia</unittitle>
+            <unitdate>1986</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">15</container>
+            <unittitle encodinganalog="title">Dr. William H. Gonzales</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">16</container>
+            <unittitle encodinganalog="title">Mr. and Mrs. Epifanio Gonzales and son</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02><c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">17</container>
+            <unittitle encodinganalog="title">Guadalupe Church, Easter ceremonies and baptism</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">18</container>
+            <unittitle encodinganalog="title">Health Fair</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">19</container>
+            <unittitle encodinganalog="title">Mr. and Mrs. Hernandez</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">20</container>
+            <unittitle encodinganalog="title">Silas Lobato, airport barber shop</unittitle>
+            <unitdate>1986</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">21</container>
+            <unittitle encodinganalog="title">Daniel Maldonado, shoe repair shop</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">22</container>
+            <unittitle encodinganalog="title">Mr. and Mrs. Ysidro Marrufo</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">23</container>
+            <unittitle encodinganalog="title">Martinez family</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">24</container>
+            <unittitle encodinganalog="title">Wedding, Martinez family</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">25</container>
+            <unittitle encodinganalog="title">Sabrina Ramos Maxwell Anna's Place (Ogden)</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">26</container>
+            <unittitle encodinganalog="title">Edith Melendez and son, Gene</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">27</container>
+            <unittitle encodinganalog="title">Jerald Merrill birthday party</unittitle>
+            <unitdate>1985</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">28</container>
+            <unittitle encodinganalog="title">Migrant workers (Ogden)</unittitle>
+            <unitdate>1987</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">29</container>
+            <unittitle encodinganalog="title">Migrant workers, Mass, near Utah Lake</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">30</container>
+            <unittitle encodinganalog="title">La Morena Cafe move to Triad Center</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">31</container>
+            <unittitle encodinganalog="title">Tony Montano</unittitle>
+            <unitdate>n.d.</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">No proof sheets.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">32</container>
+            <unittitle encodinganalog="title">Otanez Imports and other store fronts, 200 South.</unittitle>
+            <unitdate>n.d.</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">33</container>
+            <unittitle encodinganalog="title">Our Lady of Guadalupe Church, First Communion</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">34</container>
+            <unittitle encodinganalog="title">Tomas Perez, Centro Civico</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">35</container>
+            <unittitle encodinganalog="title">Father Reyes Rodriguez, Our Lady of Guadalupe Church</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">36</container>
+            <unittitle encodinganalog="title">Eraclio Roybal - Railroad worker in Ogden</unittitle>
+            <unitdate>1988</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">"For proof sheets, see Black Community "Ogden - 25th St"."</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">37</container>
+            <unittitle encodinganalog="title">Dr. Javier Saenz</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">38</container>
+            <unittitle encodinganalog="title">Antonio Torres, tortilla factory</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">39</container>
+            <unittitle encodinganalog="title">Rafael Torres, El Farol Restaurant</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">40</container>
+            <unittitle encodinganalog="title">Mr. and Mrs. Antonio Tovar, La Frontera Restaurant</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">7</container>
+            <container type="folder">41</container>
+            <unittitle encodinganalog="title">Frances G. Yanez and family, five generations</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>VIII</unitid>
+          <unittitle encodinganalog="title">Proof sheets: Ute</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">1</container>
+            <unittitle encodinganalog="title">Bear Dance and Tommy Appah</unittitle>
+            <unitdate>1985</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">2</container>
+            <unittitle encodinganalog="title">Woodrow Cesspoch, mechanic, and Robert Lee Cuch, bus driver</unittitle>
+            <unitdate>1986</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">3</container>
+            <unittitle encodinganalog="title">Lester M. Chapoose</unittitle>
+            <unitdate>1987</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">4</container>
+            <unittitle encodinganalog="title">Mr. and Mrs. Maxie Chapoose (Ft. Duchesne)</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">5</container>
+            <unittitle encodinganalog="title">Forrest S. Cuch</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">6</container>
+            <unittitle encodinganalog="title">Jason Cuch</unittitle>
+            <unitdate>1986</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">7</container>
+            <unittitle encodinganalog="title">Richard Curry and family</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">8</container>
+            <unittitle encodinganalog="title">Clifford Duncan</unittitle>
+            <unitdate>1986</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, negatives.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by Al Hartmann.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">9</container>
+            <unittitle encodinganalog="title">Clifford Duncan</unittitle>
+            <unitdate>1987</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">10</container>
+            <unittitle encodinganalog="title">Ft. Duchesne cemetery</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">11</container>
+            <unittitle encodinganalog="title">Ft. Duchesne Indian Health Center</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">12</container>
+            <unittitle encodinganalog="title">Darrell and Colleen Gardner</unittitle>
+            <unitdate></unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">13</container>
+            <unittitle encodinganalog="title">Ethel Grant and family, Ute landscapes</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">14</container>
+            <unittitle encodinganalog="title">Norma Jean Gray, G. Pawwinee, Irene Cuch, Cecilia Jenks</unittitle>
+            <unitdate>1987</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">15</container>
+            <unittitle encodinganalog="title">Head Start, signs, and buildings in Ft. Duchesne</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">16</container>
+            <unittitle encodinganalog="title">Jensen Jack and wife (Ft. Duchesne)</unittitle>
+            <unitdate>1983</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Barbara Richards.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">17</container>
+            <unittitle encodinganalog="title">Carleen Kurip and Audio Visual Office staff (Ute Reservation)</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">18</container>
+            <unittitle encodinganalog="title">John Martin</unittitle>
+            <unitdate>n.d.</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">19</container>
+            <unittitle encodinganalog="title">Marion Miller, unemployed cleaning woman at Tribal Offices</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">20</container>
+            <unittitle encodinganalog="title">Murdock family, Memorial Day</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">21</container>
+            <unittitle encodinganalog="title">Judge Julius Murray</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">22</container>
+            <unittitle encodinganalog="title">Julius R. Murray</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">23</container>
+            <unittitle encodinganalog="title">Native American Brotherhood Pow Wow (Utah State Prison)</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">24</container>
+            <unittitle encodinganalog="title">Wayne Perank and son, Dallas</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">25</container>
+            <unittitle encodinganalog="title">Wayne Perank and Ute Reservation</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">26</container>
+            <unittitle encodinganalog="title">Stewart Pike</unittitle>
+            <unitdate>1986</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">27</container>
+            <unittitle encodinganalog="title">Von Pike</unittitle>
+            <unitdate>1986</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">28</container>
+            <unittitle encodinganalog="title">Pow Wow (Ft. Duchesne)</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">29</container>
+            <unittitle encodinganalog="title">Randlette and others (Ute Reservation)</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">30</container>
+            <unittitle encodinganalog="title">Colleen Reed</unittitle>
+            <unitdate>n.d.</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">31</container>
+            <unittitle encodinganalog="title">Julian Reed</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">32</container>
+            <unittitle encodinganalog="title">Shirley Reed and daughter, Deborah</unittitle>
+            <unitdate>1986</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">33</container>
+            <unittitle encodinganalog="title">Riddley cabin and Bureau of Indian Affairs buildings at Whiterocks</unittitle>
+            <unitdate>1987</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">34</container>
+            <unittitle encodinganalog="title">Claude Taylor and family at Ft. Duchesne cemetery</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">35</container>
+            <unittitle encodinganalog="title">Gloria Thompson</unittitle>
+            <unitdate>1987</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">36</container>
+            <unittitle encodinganalog="title">Ute landscapes</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">37</container>
+            <unittitle encodinganalog="title">Ute Reservation: Catholic ceremony with Bishop Wegelund, horse race</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">38</container>
+            <unittitle encodinganalog="title">Ute Reservation: Catholic ceremony with Bishop Wegelund, horse race</unittitle>
+            <unitdate>1985</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">39</container>
+            <unittitle encodinganalog="title">Ute Tribal Council</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">8</container>
+            <container type="folder">40</container>
+            <unittitle encodinganalog="title">Ute Tribal Council</unittitle>
+            <unitdate>1987</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles(?).</p>
+          </scopecontent>
+        </c02>
+      </c01>
+      <c01 level="series">
+        <did>
+          <unitid>IX</unitid>
+          <unittitle encodinganalog="title">Proof sheets: Miscellaneous</unittitle>
+        </did>
+		<c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">1</container>
+            <unittitle encodinganalog="title">Bingham Copper Mine, Utah Lake with Rothstein</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">2</container>
+            <unittitle encodinganalog="title">Carbon County</unittitle>
+            <unitdate>1985 - 1987</unitdate>
+            <physdesc>
+              <extent encodinganalog="format">Proof sheets, prints.</extent>
+            </physdesc>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">3</container>
+            <unittitle encodinganalog="title">Carbon County miscellaneous (includes Mrs. Sampinos)</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">4</container>
+            <unittitle encodinganalog="title">David Colorow/Ute Cab; Miscellaneous</unittitle>
+            <unitdate>1985</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by Kent Miles.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">5</container>
+            <unittitle encodinganalog="title">Columbia, Carbon County</unittitle>
+            <unitdate>1987</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+		<c02 level="file">
+          <did>
+            <container type="box">9</container>
+            <container type="folder">6</container>
+            <unittitle encodinganalog="title">Utah State Prison</unittitle>
+            <unitdate>1986</unitdate>
+          </did>
+          <scopecontent>
+            <p>Photographs by George Janecek.</p>
+          </scopecontent>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
