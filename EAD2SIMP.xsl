@@ -61,6 +61,62 @@
 			<xsl:value-of select="$tab" />
 			
 			<!-- subjects -->
+			<!-- organization name -->
+			<xsl:value-of select="//ead:controlaccess/ead:controlaccess[3]" />
+			<xsl:text>; </xsl:text>
+			
+			<!-- location -->
+			<xsl:value-of select="//ead:controlaccess/ead:controlaccess[4]" />
+			<xsl:text>; </xsl:text>
+			
+			<!-- form -->
+			<xsl:value-of select="//ead:controlaccess/ead:controlaccess[13]" />
+			<xsl:text>; </xsl:text>
+			<xsl:value-of select="//ead:controlaccess/ead:controlaccess[14]" />
+			<xsl:text>; </xsl:text>
+			
+			<!-- subject -->
+			<xsl:choose>
+				<xsl:when test="ead:did/ead:container[@type='box'] = '1'">
+					<xsl:value-of select="//ead:controlaccess/ead:controlaccess[5]" />
+					<xsl:value-of select="$tab" />
+				</xsl:when>
+				<xsl:when test="ead:did/ead:container[@type='box'] = '2'">
+					<xsl:value-of select="//ead:controlaccess/ead:controlaccess[6]" />
+					<xsl:value-of select="$tab" />
+				</xsl:when>
+				<xsl:when test="ead:did/ead:container[@type='box'] = '3'">
+					<xsl:value-of select="//ead:controlaccess/ead:controlaccess[7]" />
+					<xsl:value-of select="$tab" />
+				</xsl:when>
+				<xsl:when test="ead:did/ead:container[@type='box'] = '4'">
+					<xsl:value-of select="//ead:controlaccess/ead:controlaccess[8]" />
+					<xsl:value-of select="$tab" />
+				</xsl:when>
+				<xsl:when test="ead:did/ead:container[@type='box'] = '5'">
+					<xsl:value-of select="//ead:controlaccess/ead:controlaccess[9]" />
+					<xsl:value-of select="$tab" />
+				</xsl:when>
+				<xsl:when test="ead:did/ead:container[@type='box'] = '6'">
+					<xsl:value-of select="//ead:controlaccess/ead:controlaccess[10]" />
+					<xsl:value-of select="$tab" />
+				</xsl:when>
+				<xsl:when test="ead:did/ead:container[@type='box'] = '7'">
+					<xsl:value-of select="//ead:controlaccess/ead:controlaccess[11]" />
+					<xsl:value-of select="$tab" />
+				</xsl:when>
+				<xsl:when test="ead:did/ead:container[@type='box'] = '8'">
+					<xsl:value-of select="//ead:controlaccess/ead:controlaccess[12]" />
+					<xsl:value-of select="$tab" />
+				</xsl:when>
+				<xsl:otherwise>
+					<xsl:text>Ethnic groups--Utah--Salt Lake City</xsl:text>
+					<xsl:value-of select="$tab" />
+				</xsl:otherwise>
+			</xsl:choose>
+			
+			<!-- collection name -->
+			<xsl:value-of select="//ead:controlaccess/ead:controlaccess[15]" />
 		</xsl:for-each>
 	</xsl:template>
 </xsl:stylesheet>
